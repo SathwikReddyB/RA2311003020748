@@ -1,4 +1,4 @@
-# Bajaj Coding Assessment - Backend & Logging Integration
+# Backend & Logging Integration
 
 This repository contains the backend implementations for the assessment, including the Notification Service and Vehicle Maintenance Scheduler, both fully integrated with the required Logging Middleware.
 

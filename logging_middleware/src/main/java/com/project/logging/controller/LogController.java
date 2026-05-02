@@ -26,7 +26,7 @@ public class LogController {
         loggingService.log("backend", "info", "controller", "Test API called");
 
         try {
-            int x = 10 / 0;
+            System.out.println(10 / 0);
         } catch (Exception e) {
             loggingService.log("backend", "error", "handler", "Division by zero");
         }
